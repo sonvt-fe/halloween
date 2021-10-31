@@ -16,6 +16,11 @@
   "devDependencies": {
     "@types/node": "16.11.6",
     "@types/react": "17.0.33",
+    "@types/three": "^0.133.1",
+    "@types/styled-components": "^5.1.15",
+    "framer-motion": "^5.0.0",
+    "styled-components": "^5.3.3",
+    "three": "^0.134.0",
     "eslint": "7.32.0",
     "eslint-config-next": "12.0.1",
     "typescript": "4.4.4"
